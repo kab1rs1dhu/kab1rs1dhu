@@ -7,7 +7,7 @@
 *Building innovative solutions from web applications to embedded systems*
 
 [![GitHub](https://img.shields.io/badge/GitHub-kab1rs1dhu-181717?style=flat-square&logo=github)](https://github.com/kab1rs1dhu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kabir-singh-sidhu-3465b7217/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kabirsidhu.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://kabirsidhu.dev)
 
 </div>
