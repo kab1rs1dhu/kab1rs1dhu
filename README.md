@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a third-year Computer Science student at Simon Fraser University (3.68 GPA) and Full-Stack Developer at Altiora Infotech, graduating December 2026. I'm deeply passionate about technology, from crafting elegant web applications to diving deep into systems programming and hardware integrations.
+I'm a fourth-year Computer Science student at Simon Fraser University (3.67 GPA) and Full-Stack Developer at Altiora Infotech, graduating December 2026. I'm deeply passionate about technology, from crafting elegant web applications to diving deep into systems programming and hardware integrations.
 
 Currently building my **own custom programming language and compiler in C** - exploring the fascinating world of language design, parsing, and code generation. I love working on projects that challenge me across the full technology stack, from low-level system programming to modern web development.
 
